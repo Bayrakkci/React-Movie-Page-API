@@ -3,8 +3,8 @@ import MovieCard from './MovieCard';
 
 import './App.css'
 import SearchIcon from './search.svg'
-
-const API_URL = 'http://www.omdbapi.com?apikey=729e2184'
+// You can get you key from https://www.omdbapi.com/apikey.aspx
+const API_URL = 'http://www.omdbapi.com?apikey={your_key}'
 
 
 
